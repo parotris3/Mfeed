@@ -1,5 +1,6 @@
 import requests
 import csv
+import re
 
 ott_url = "https://ottcache.dof6.com/movistarplus/webplayer/OTT/contents/epg"
 ott_csv_filepath = "ott.csv"
