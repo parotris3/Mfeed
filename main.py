@@ -17,17 +17,22 @@ def export_movistarEPG_to_csv(epg_url, filepath):
 
     csv_data = []
     for indice, grupo in enumerate(movistarEPG):
+        extra_info_str = grupo.get("extra_info", "")  # Obtiene la cadena (o "")
+        match = re.search(r'"uri"\s*:\s*"([^"]*)"', extra_info_str)
+        logo_url = match.group(1) if match else ""
+        
         csv_data.append({
             "Nombre": grupo.get("Nombre", "").replace("\t", "").replace("\n", ""),
             "FormatoVideo": grupo.get("FormatoVideo", ""),
             "CodCadenaTv": grupo.get("CodCadenaTv", ""),
             "CasId": grupo.get("CasId", ""),
             "PuntoReproduccion": grupo.get("PuntoReproduccion", ""),
+            "Logo": logo_url,
 
         })
 
     # Define CSV headers
-    headers = ["Nombre", "FormatoVideo", "CodCadenaTv", "CasId", "PuntoReproduccion"]
+    headers = ["Nombre", "FormatoVideo", "CodCadenaTv", "CasId", "PuntoReproduccion", "Logo"]
 
     # Write CSV data to file
     with open(filepath, mode='w', newline='', encoding='utf-8') as file:
