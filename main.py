@@ -1,6 +1,5 @@
 import requests
 import csv
-import re
 
 ott_url = "https://ottcache.dof6.com/movistarplus/webplayer/OTT/contents/epg"
 ott_csv_filepath = "ott.csv"
@@ -18,22 +17,24 @@ def export_movistarEPG_to_csv(epg_url, filepath):
 
     csv_data = []
     for indice, grupo in enumerate(movistarEPG):
-        extra_info_str = grupo.get("extra_info", "")  # Obtiene la cadena (o "")
-        match = re.search(r'"uri"\s*:\s*"([^"]*)"', extra_info_str)
-        logo_url = match.group(1) if match else ""
-        
-        csv_data.append({
-            "Nombre": grupo.get("Nombre", "").replace("\t", "").replace("\n", ""),
-            "FormatoVideo": grupo.get("FormatoVideo", ""),
-            "CodCadenaTv": grupo.get("CodCadenaTv", ""),
-            "CasId": grupo.get("CasId", ""),
-            "PuntoReproduccion": grupo.get("PuntoReproduccion", ""),
-            "Logo": logo_url,
+        # Busca el logo con 'state': 'over' dentro de la lista 'Logos'
+        logo_url = ""  # Inicializa logo_url
+        for logo_info in grupo.get("Logos", []):  # Itera sobre la lista Logos (o una lista vacía si no existe)
+            if logo_info.get("state") == "over":
+                logo_url = logo_info.get("uri", "")  # Obtiene la URI
+                break  # Sale del bucle interno una vez que encuentra el logo correcto
 
+        csv_data.append({
+            "CasId": grupo.get("CasId", ""),
+            "CodCadenaTv": grupo.get("CodCadenaTv", ""),
+            "Nombre": grupo.get("Nombre", "").replace("\t", "").replace("\n", ""),
+            "Logo": logo_url,
+            "PuntoReproduccion": grupo.get("PuntoReproduccion", ""),
+            "FormatoVideo": grupo.get("FormatoVideo", ""),
         })
 
     # Define CSV headers
-    headers = ["Nombre", "FormatoVideo", "CodCadenaTv", "CasId", "PuntoReproduccion", "Logo"]
+    headers = ["CasId", "CodCadenaTv", "Nombre", "Logo", "PuntoReproduccion", "FormatoVideo"]
 
     # Write CSV data to file
     with open(filepath, mode='w', newline='', encoding='utf-8') as file:
@@ -51,4 +52,3 @@ def flujo_vaginal():
 
 
 flujo_vaginal()
-
