@@ -17,10 +17,10 @@ def export_movistarEPG_to_csv(epg_url, filepath):
 
     csv_data = []
     for indice, grupo in enumerate(movistarEPG):
-        # Busca el logo con 'state': 'over' dentro de la lista 'Logos'
+        # Busca el logo con 'id': 'nobox_dark' dentro de la lista 'Logos'
         logo_url = ""  # Inicializa logo_url
         for logo_info in grupo.get("Logos", []):  # Itera sobre la lista Logos (o una lista vacía si no existe)
-            if logo_info.get("state") == "over":
+            if logo_info.get("id") == "nobox_dark":
                 logo_url = logo_info.get("uri", "")  # Obtiene la URI
                 break  # Sale del bucle interno una vez que encuentra el logo correcto
 
