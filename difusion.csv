@@ -12,6 +12,7 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 5259,MORIG,M+ Originales,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MORIG,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4955,ML90,M+ Los 90,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ML90,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5245,MDOC,M+ Documentales,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDOC,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
+5252,MMUSIC,Musicales por M+ ,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MMUSIC,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5032,RESIST,La Resistencia,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/RESIST,http://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4999,MCLAS,M+ Clásicos,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCLAS,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4542,CPACCI,M+ Acción,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CPACCI,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
@@ -167,4 +168,3 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 5291,PRUE25,Pruebas 25,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE25,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5293,PRUE26,Pruebas 26,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE26,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5414,UCL,UCL,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/UCL,http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
-5252,MMUSIC,Musicales por M+ ,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MMUSIC,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd,
