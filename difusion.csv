@@ -143,7 +143,6 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 5147,P19OTT,Pruebas 19_OTT,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P19OTT,http://test19-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 4896,SKAM,SKAM,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/SKAM,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5057,TESUHD,Test UHD 1,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TESUHD,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
-5274,CHUHD1,M+ Liga de Campeones2 UHD,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHUHD1,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
 5272,ESP4K,Eurosport 4K,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ESP4K,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
 5162,P20OTT,Pruebas 20 SD_OTT,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P20OTT,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5163,P21OTT,Pruebas 21_SD_OTT,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P21OTT,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
@@ -168,3 +167,5 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 5291,PRUE25,Pruebas 25,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE25,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5293,PRUE26,Pruebas 26,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE26,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5414,UCL,UCL,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/UCL,http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
+5418,CHHDR,M+ Liga de Campeones HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,
+5425,CHHDR2,M+ Liga de Campeones2 HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR2,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,
