@@ -21,13 +21,12 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 5356,7TVMUR,7 TV Región Murcia,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/7TVMUR,http://tdtmurcia-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5074,ETB1,ETB 1,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ETB1,http://tdt1etb-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5210,NAVA,Navarra TV,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/NAVA,http://tdtnavarra-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
-4501,MV1,M+ Estrenos,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MV1,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
-4527,MHITS,M+ Hits,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MHITS,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
+4501,MV1,M+ Estrenos,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MV1,http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
+4527,MHITS,M+ Hits,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MHITS,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5259,MORIG,M+ Originales,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MORIG,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4955,ML90,M+ Los 90,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ML90,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5245,MDOC,M+ Documentales,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDOC,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5252,MMUSIC,Musicales por M+ ,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MMUSIC,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
-5032,RESIST,La Resistencia,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/RESIST,http://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4999,MCLAS,M+ Clásicos,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCLAS,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4542,CPACCI,M+ Acción,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CPACCI,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4573,CPCOME,M+ Comedia,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CPCOME,http://comedia-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
@@ -146,3 +145,5 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 4961,DAZN3,DAZN 3,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZN3,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4962,DAZN4,DAZN 4,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZN4,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5077,MLIGUH,M+ LALIGA TV UHD,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIGUH,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
+5418,CHHDR,M+ Liga de Campeones HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,HD
+5424,CHHDR2,M+ Liga de Campeones2 HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR2,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,HD
