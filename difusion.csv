@@ -46,7 +46,7 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 4833,MLIG1,M+ LALIGA TV 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIG1,http://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5120,DAZNL2,DAZN LALIGA 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNL2,http://02daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5127,MLIGS2,LALIGA TV HYPERMOTION 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIGS2,http://2segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
-4594,CHAPIO,M+ Liga de Campeones,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHAPIO,http://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd,4K
+4594,CHAPIO,M+ Liga de Campeones,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHAPIO,http://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4581,CHAP1,M+ Liga de Campeones 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHAP1,http://02campeones-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4564,CHAP2,M+ Liga de Campeones  3,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHAP2,http://03campeones-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4592,CPDEP,M+ Deportes,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CPDEP,http://mdeportes-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
@@ -131,8 +131,8 @@ CasId,CodCadenaTv,Nombre,Logo,PuntoReproduccion,FormatoVideo
 4961,DAZN3,DAZN 3,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZN3,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 4962,DAZN4,DAZN 4,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZN4,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd,HD
 5077,MLIGUH,M+ LALIGA TV UHD,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIGUH,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
-5418,CHHDR,M+ Liga de Campeones HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,HD
-5424,CHHDR2,M+ Liga de Campeones2 HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR2,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,HD
+5418,CHHDR,M+ Liga de Campeones HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
+5424,CHHDR2,M+ Liga de Campeones2 HDR,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR2,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd,4K
 5121,P1OTT,Pruebas 1_OTT,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P1OTT,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 4924,P2OTT,Pruebas 2_OTT,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P2OTT,http://test02-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
 5052,P3OTT,Pruebas 3_OTT,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P3OTT,http://test03-dash-movistarplus.emisiondof6.com/manifest.mpd,SD
