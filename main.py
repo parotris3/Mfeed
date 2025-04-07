@@ -74,7 +74,7 @@ def write_changes(changes):
         fieldnames = ["Fecha", "Origen", "Cambio", "CasId"] + \
                      [f"Antes_{f}" for f in data_fields] + \
                      [f"Despues_{f}" for f in data_fields]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_MINIMAL)
         if not file_exists:
             writer.writeheader()
         writer.writerows(changes)
@@ -109,7 +109,7 @@ def export_movistarEPG_to_csv(epg_url, filepath, origen):
         write_changes(changes)
 
     with open(filepath, mode='w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=data_fields)
+        writer = csv.DictWriter(f, fieldnames=data_fields, quoting=csv.QUOTE_MINIMAL)
         writer.writeheader()
         writer.writerows(csv_data)
 
