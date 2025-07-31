@@ -132,6 +132,7 @@
 "5146","P18OTT","Pruebas 18_OTT","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P18OTT","http://test18-dash-movistarplus.emisiondof6.com/manifest.mpd","SD"
 "5147","P19OTT","Pruebas 19_OTT","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P19OTT","http://test19-dash-movistarplus.emisiondof6.com/manifest.mpd","SD"
 "4896","SKAM","SKAM","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/SKAM","http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd","SD"
+"5474","MLIUHD","M+ LALIGA 2 HDR","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIUHD","http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","HD"
 "5057","TESUHD","Test UHD 1","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TESUHD","http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","4K"
 "5077","MLIGUH","M+ LALIGA HDR","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIGUH","http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","HD"
 "5418","CHHDR","M+ Liga de Campeones HDR","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR","http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","HD"
@@ -158,4 +159,3 @@
 "5290","PRUE24","Pruebas 24","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE24","http://03pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd","SD"
 "5291","PRUE25","Pruebas 25","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE25","http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd","SD"
 "5293","PRUE26","Pruebas 26","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PRUE26","http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd","SD"
-"5474","MLIUHD","M+ LALIGA 2 HDR","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MLIUHD","http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","HD"
