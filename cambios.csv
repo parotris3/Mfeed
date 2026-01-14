@@ -244,3 +244,8 @@
 "13/01/2026","OTT","Modificado","5252","","","","","M+ BBC Earth","M+ Cine bélico","","","","","",""
 "13/01/2026","DIFUSION","Modificado","4955","","","MNAVID","MTIME","M+ Navidad","M+ Tierra Media","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME","","","",""
 "13/01/2026","DIFUSION","Modificado","5252","","","","","M+ BBC Earth","M+ Cine bélico","","","","","",""
+"14/01/2026","OTT","Eliminado","4567","4567","","VH1","","MTV 00s","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/VH1","","http://00smtv-dash-movistarplus.emisiondof6.com/manifest.mpd","","SD",""
+"14/01/2026","OTT","Eliminado","4586","4586","","PARCH","","Paramount Network","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PARCH","","http://paramount-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD",""
+"14/01/2026","OTT","Añadido","4955","","4955","","MTIME","","M+ Tierra Media","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME","","http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD"
+"14/01/2026","DIFUSION","Eliminado","4567","4567","","VH1","","MTV 00s","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/VH1","","http://00smtv-dash-movistarplus.emisiondof6.com/manifest.mpd","","SD",""
+"14/01/2026","DIFUSION","Eliminado","4586","4586","","PARCH","","Paramount Network","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/PARCH","","http://paramount-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD",""
