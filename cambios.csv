@@ -252,3 +252,5 @@
 "15/01/2026","DIFUSION","Añadido","5272","","5272","","ESP4K","","Eurosport 4K","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ESP4K","","http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","","4K"
 "15/01/2026","DIFUSION","Añadido","5509","","5509","","SQUI","","Squirrel","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/SQUI","","http://tvsquirrel-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD"
 "16/01/2026","OTT","Añadido","5272","","5272","","ESP4K","","Eurosport 4K","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ESP4K","","http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","","4K"
+"20/01/2026","OTT","Eliminado","5252","5252","","MBBC","","M+ Cine bélico","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC","","http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD",""
+"20/01/2026","DIFUSION","Modificado","5252","","","MBBC","MCIBE","","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE","","","",""
