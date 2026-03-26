@@ -305,3 +305,5 @@
 "24/03/2026","DIFUSION","Modificado","5252","","","","","M+ Oscars","M+ Top comedia española","","","","","",""
 "25/03/2026","OTT","Añadido","5418","","5418","","CHHDR","","M+ Liga de Campeones HDR","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR","","http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","","HD"
 "25/03/2026","OTT","Añadido","5424","","5424","","CHHDR2","","M+ Liga de Campeones2 HDR","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR2","","http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","","HD"
+"26/03/2026","OTT","Eliminado","5252","5252","","MOSCAR","","M+ Top comedia española","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR","","http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD",""
+"26/03/2026","DIFUSION","Modificado","5252","","","MOSCAR","TOPCOM","M+ Top comedia española","M+ Top Comedia Española","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM","","","",""
