@@ -346,3 +346,7 @@
 "05/05/2026","DIFUSION","Modificado","4769","","","","","","","","","","","SD","HD"
 "05/05/2026","DIFUSION","Modificado","5282","","","","","","","","","","","SD","HD"
 "05/05/2026","DIFUSION","Modificado","5285","","","","","","","","","","","SD","HD"
+"07/05/2026","DIFUSION","Añadido","5209","","5209","","DAZNL3","","DAZN LALIGA 3","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNL3","","http://03daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD"
+"07/05/2026","DIFUSION","Añadido","5213","","5213","","DAZNL4","","DAZN LALIGA 4","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNL4","","http://04daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD"
+"07/05/2026","DIFUSION","Añadido","5372","","5372","","DAZNL5","","DAZN LALIGA 5","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNL5","","http://05daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD"
+"07/05/2026","DIFUSION","Eliminado","5529","5529","","RED","","Canal RED","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/RED","","http://redcanal-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD",""
