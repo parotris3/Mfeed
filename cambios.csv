@@ -556,3 +556,6 @@
 "23/09/2026","OTT","Modificado","4557","","","","","","","","","http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd","http://etb2onsat-dash-movistarplus.emisiondof6.com/manifest.mpd","",""
 "23/09/2026","DIFUSION","Modificado","4557","","","","","","","","","http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd","http://etb2onsat-dash-movistarplus.emisiondof6.com/manifest.mpd","",""
 "28/09/2026","DIFUSION","Añadido","5618","","5618","","CERO2","","M+ Cero 2","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CERO2","","http://02origfreemium-dash-movistarplus.emisiondof6.com/manifest.mpd","","HD"
+"29/09/2026","DIFUSION","Eliminado","5162","5162","","P20OTT","","Pruebas 20 SD_OTT","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P20OTT","","http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd","","SD",""
+"29/09/2026","DIFUSION","Eliminado","5164","5164","","P22OTT","","Pruebas 22_SD_OTT","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/P22OTT","","https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd","","SD",""
+"29/09/2026","DIFUSION","Añadido","5418","","5418","","CHHDR","","M+ Liga de Campeones HDR","","https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CHHDR","","http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd","","HD"
