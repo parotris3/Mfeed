@@ -8,6 +8,10 @@ ott_csv_filepath = "ott.csv"
 difusion_url = "https://ottcache.dof6.com/movistarplus/webplayer/DIFUSION/contents/epg"
 difusion_csv_filepath = "difusion.csv"
 cambios_filepath = "cambios.csv"
+ps4_url = "https://ottcache.dof6.com/movistarplus/ps4/DIFUSION/contents/epg"
+ps4_csv_filepath = "ps4.csv"
+xbox_url = "https://ottcache.dof6.com/movistarplus/xbox360/DIFUSION/contents/epg"
+xbox_csv_filepath = "xbox.csv"
 
 # Define los campos que se extraerán y usarán como encabezados en los CSV de datos
 data_fields = ["CasId", "CodCadenaTv", "Nombre", "Logo", "PuntoReproduccion", "FormatoVideo"]
@@ -183,6 +187,8 @@ def ejecutar_proceso():
     print(f"--- Inicio del proceso: {datetime.now().isoformat(timespec='seconds')} ---")
     export_movistarEPG_to_csv(ott_url, ott_csv_filepath, "OTT")
     export_movistarEPG_to_csv(difusion_url, difusion_csv_filepath, "DIFUSION")
+    export_movistarEPG_to_csv(ps4_url, ps4_csv_filepath, "ps4")
+    export_movistarEPG_to_csv(xbox_url, xbox_csv_filepath, "xbox")
     print(f"--- Fin del proceso: {datetime.now().isoformat(timespec='seconds')} ---")
 
 # Ejecutar la función principal
